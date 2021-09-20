@@ -19,7 +19,7 @@
     "optimist": "0.6.1",
     "pump": "3.0.0",
     "tldjs": "2.3.1",
-    "portfinder": "1.0.20"
+    "portfinder": "1.0.28"
   },
   "devDependencies": {
     "mocha": "5.1.1",
